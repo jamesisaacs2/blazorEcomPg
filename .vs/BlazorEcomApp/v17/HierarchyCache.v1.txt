@@ -1,0 +1,238 @@
+﻿++Solution 'BlazorEcomApp' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:BlazorEcomApp.sln
+++BlazorEcomApp.Server
+i:{00000000-0000-0000-0000-000000000000}:BlazorEcomApp.Server
+++Connected Services 
+i:{7190d77d-34c7-4188-940e-790653153c24}:>504
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:>505
+++No service dependencies discovered
+i:{7190d77d-34c7-4188-940e-790653153c24}:>506
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:>507
+++Dependencies
+i:{7190d77d-34c7-4188-940e-790653153c24}:>503
+i:{fc2e61f7-980f-45e6-aa6d-54eb7d70b786}:>501
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:>502
+++Analyzers
+i:{7190d77d-34c7-4188-940e-790653153c24}:analyzers
+i:{fc2e61f7-980f-45e6-aa6d-54eb7d70b786}:analyzers
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:analyzers
+++Frameworks
+i:{7190d77d-34c7-4188-940e-790653153c24}:frameworks
+i:{fc2e61f7-980f-45e6-aa6d-54eb7d70b786}:frameworks
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:frameworks
+++Packages
+i:{7190d77d-34c7-4188-940e-790653153c24}:packages
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:packages
+++Projects
+i:{7190d77d-34c7-4188-940e-790653153c24}:projects
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:projects
+++Properties
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\properties\
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\properties\
+++launchSettings.json
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\properties\launchsettings.json
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\properties\launchsettings.json
+++Controllers
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\controllers\
+++WeatherForecastController.cs
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\controllers\weatherforecastcontroller.cs
+++Pages
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\pages\
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\pages\
+++Error.cshtml
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\pages\error.cshtml
+++appsettings.json
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\appsettings.json
+++Program.cs
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\program.cs
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\program.cs
+++Microsoft.AspNetCore.Analyzers
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:c:\users\jamesisaacs\.nuget\packages\microsoft.aspnetcore.components.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{fc2e61f7-980f-45e6-aa6d-54eb7d70b786}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{fc2e61f7-980f-45e6-aa6d-54eb7d70b786}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:c:\users\jamesisaacs\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{7190d77d-34c7-4188-940e-790653153c24}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{fc2e61f7-980f-45e6-aa6d-54eb7d70b786}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\microsoft.netcore.app
+i:{fc2e61f7-980f-45e6-aa6d-54eb7d70b786}:z:\adeveloper\blazorecom\blazorecomapp\shared\microsoft.netcore.app
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\microsoft.netcore.app
+++Microsoft.AspNetCore.Components.WebAssembly.Server (6.0.2)
+i:{7190d77d-34c7-4188-940e-790653153c24}:>530
+++BlazorEcomApp.Client
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\client\blazorecomapp.client.csproj
+i:{00000000-0000-0000-0000-000000000000}:BlazorEcomApp.Client
+++BlazorEcomApp.Shared
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\shared\blazorecomapp.shared.csproj
+i:{00000000-0000-0000-0000-000000000000}:BlazorEcomApp.Shared
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\shared\blazorecomapp.shared.csproj
+++Error.cshtml.cs
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\pages\error.cshtml.cs
+++appsettings.Development.json
+i:{7190d77d-34c7-4188-940e-790653153c24}:z:\adeveloper\blazorecom\blazorecomapp\server\appsettings.development.json
+++WeatherForecast.cs
+i:{fc2e61f7-980f-45e6-aa6d-54eb7d70b786}:z:\adeveloper\blazorecom\blazorecomapp\shared\weatherforecast.cs
+++wwwroot
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\
+++css
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font\css\
+++bootstrap
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\bootstrap\
+++bootstrap.min.css
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\bootstrap\bootstrap.min.css
+++open-iconic
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\
+++font
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\readme.md
+++app.css
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\app.css
+++favicon.ico
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\favicon.ico
+++icon-192.png
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\icon-192.png
+++index.html
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\index.html
+++Counter.razor
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\pages\counter.razor
+++FetchData.razor
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\pages\fetchdata.razor
+++Index.razor
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\pages\index.razor
+++Shared
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\shared\
+++_Imports.razor
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\_imports.razor
+++App.razor
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\app.razor
+++ILLink.CodeFixProvider
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.2)
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:>516
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.2)
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:>517
+++bootstrap.min.css.map
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\bootstrap\bootstrap.min.css.map
+++fonts
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font\fonts\
+++MainLayout.razor
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\shared\mainlayout.razor
+++NavMenu.razor
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\shared\surveyprompt.razor
+++open-iconic-bootstrap.min.css
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++MainLayout.razor.css
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{ad9f12d9-9ff7-4835-8583-f6e180e43c48}:z:\adeveloper\blazorecom\blazorecomapp\client\shared\navmenu.razor.css
+++Script Documents
+++localhost꞉7189/_framework/aspnetcore-browser-refresh.js
+++localhost꞉7189/_framework/blazor.webassembly.js
+++localhost꞉7189/_framework/dotnet.6.0.2.6ty1wmibqs.js
+++localhost꞉7189/_framework/dotnet.wasm
+++file://z:\aDeveloper\blazorEcom\BlazorEcomApp\Shared\WeatherForecast.cs
+++file://z:\aDeveloper\blazorEcom\BlazorEcomApp\Client\Shared\SurveyPrompt.razor
+++file://z:\aDeveloper\blazorEcom\BlazorEcomApp\Client\Shared\MainLayout.razor
+++file://z:\aDeveloper\blazorEcom\BlazorEcomApp\Client\Shared\NavMenu.razor
+++file://z:\aDeveloper\blazorEcom\BlazorEcomApp\Client\Pages\Counter.razor
+++file://z:\aDeveloper\blazorEcom\BlazorEcomApp\Client\Pages\FetchData.razor
+++file://z:\aDeveloper\blazorEcom\BlazorEcomApp\Client\Program.cs
+++mono-wasm.invalid/variadic_converter_ii_result_unmarshaled
+++mono-wasm.invalid/converter_mi
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectByJSHandle
+++mono-wasm.invalid/converter_ii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_TryGetCSOwnedObjectJSHandle
+++mono-wasm.invalid/managed_BINDINGS_GetCSOwnedObjectJSHandle
+++mono-wasm.invalid/variadic_converter_mi
+++mono-wasm.invalid/converter_iii_result_unmarshaled
+++mono-wasm.invalid/variadic_converter_iii_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateCSOwnedProxy
+++mono-wasm.invalid/converter_i_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectByGCHandle
+++mono-wasm.invalid/variadic_converter_m
+++mono-wasm.invalid/converter_m
+++mono-wasm.invalid/managed_BINDINGS_GetJSOwnedObjectGCHandle
+++mono-wasm.invalid/variadic_converter_i_result_unmarshaled
+++mono-wasm.invalid/converter_i
+++mono-wasm.invalid/managed_BINDINGS_ReleaseJSOwnedObjectByGCHandle
+++mono-wasm.invalid/converter_
+++mono-wasm.invalid/managed_BINDINGS_CreateTaskSource
+++mono-wasm.invalid/variadic_converter_i
+++mono-wasm.invalid/variadic_converter_
+++mono-wasm.invalid/variadic_converter_io
+++mono-wasm.invalid/variadic_converter_is
+++mono-wasm.invalid/converter_is
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceFailure
+++mono-wasm.invalid/managed_BINDINGS_GetTaskSourceTask
+++mono-wasm.invalid/converter_mo
+++mono-wasm.invalid/converter_io
+++mono-wasm.invalid/managed_BINDINGS_SetTaskSourceResult
+++mono-wasm.invalid/variadic_converter_mo
+++mono-wasm.invalid/managed_BINDINGS_ObjectToString
+++mono-wasm.invalid/variadic_converter_d_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_GetDateValue
+++mono-wasm.invalid/managed_BINDINGS_SetupJSContinuation
+++mono-wasm.invalid/converter_d_result_unmarshaled
+++mono-wasm.invalid/converter_s_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_IsSimpleArray
+++mono-wasm.invalid/variadic_converter_s_result_unmarshaled
+++mono-wasm.invalid/managed_BINDINGS_CreateUri
+++mono-wasm.invalid/managed_BINDINGS_CreateDateTime
+++mono-wasm.invalid/variadic_converter_im
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_BeginInvokeDotNet
+++mono-wasm.invalid/converter_im
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_InvokeDotNet
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_EndInvokeJS
+++mono-wasm.invalid/converter_s
+++mono-wasm.invalid/managed__Microsoft_AspNetCore_Components_WebAssembly__Microsoft_AspNetCore_Components_WebAssembly_Services_DefaultWebAssemblyJSRuntime_NotifyByteArrayAvailable
+++mono-wasm.invalid/variadic_converter_s
+++mono-wasm.invalid/variadic_converter_ssss
+++mono-wasm.invalid/converter_ssss
+++localhost꞉7189/_framework/blazor-hotreload.js
