@@ -1,0 +1,31 @@
+.media-img[b-6e2hi82yn1] {
+	max-height: 200px;
+	max-width: 200px;
+	border-radius: 6px;
+	margin-bottom: 10px;
+	transition: transform .5s;
+}
+
+	.media-img:hover[b-6e2hi82yn1] {
+		transform: scale(1.1);
+	}
+
+.media-img-wrapper[b-6e2hi82yn1] {
+	width: 200px;
+	text-align: center;
+}
+
+.price[b-6e2hi82yn1] {
+	color: green;
+}
+
+@media (max-width: 1023.98px) {
+	.media[b-6e2hi82yn1] {
+		flex-direction: column;
+	}
+
+	.media-img-wrapper[b-6e2hi82yn1] {
+		width: 100%;
+		height: auto;
+	}
+}
