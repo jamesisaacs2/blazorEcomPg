@@ -10,6 +10,15 @@
 		transform: scale(1.1);
 	}
 
+.media[b-6e2hi82yn1] {
+	display:  flex;
+	align-items: flex-start;
+}
+
+.media-body[b-6e2hi82yn1] {
+	flex: 1;
+}
+
 .media-img-wrapper[b-6e2hi82yn1] {
 	width: 200px;
 	text-align: center;
